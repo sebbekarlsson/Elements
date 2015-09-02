@@ -1,28 +1,28 @@
 ##As
 > ####Basic Information
-> * Name: Arsenic 
+> * Namn: Arsenic 
 > * Symbol: As 
-> * Atomic Number: 33 
-> * Atomic Mass: 74.9216 amu 
-> * Melting Point: 817.0 °C (1090.15 K, 1502.6 °F) 
-> * Boiling Point: 613.0 °C (886.15 K, 1135.4 °F) 
-> * Number of Protons/Electrons: 33 
-> * Number of Neutrons: 42 
-> * Classification: Metalloid 
-> * Crystal Structure: Rhombohedral 
-> * Density @ 293 K: 5.72 g/cm3 
-> * Color: Gray
+> * Atom Nummer: 33 
+> * Atom Massa: 74.9216 amu 
+> * Smältpunkt: 817.0 °C (1090.15 K, 1502.6 °F) 
+> * Kokpunkt: 613.0 °C (886.15 K, 1135.4 °F) 
+> * Antal protoner/elektroner: 33 
+> * Antal neutroner: 42 
+> * Klassifikation: Metalloid 
+> * Kristall struktur: Rhombohedral 
+> * Densitet @ 293 K: 5.72 g/cm3 
+> * Färg: Gray
 
 > ###Atomic Structure
-> * Number of Energy Levels: 4
-> * First Energy Level: 2 
-> * Second Energy Level: 8
-> * Third Energy Level: 18 
-> * Fourth Energy Level: 5
+> * Antal energinivåer: 4
+> * Första energinivån: 2 
+> * Andra energinivån: 8
+> * Tredje energinivån: 18 
+> * Fjärde energinivån: 5
 
 > ###Facts
-> * Date of Discovery: Known to the ancients 
-> * Discoverer: Unknown 
-> * Name Origin: From the Greek word arsenikos and the Latin word arsenicum 
-> * Uses: Poison, conducts electricity, semiconductors 
-> * Obtained From: mispickel
+> * Datum av upptäckt: Known to the ancients 
+> * Upptäckare: Unknown 
+> * Ursprungsnamn: From the Greek word arsenikos and the Latin word arsenicum 
+> * Användning: Gift, Elektricitet, semikonduktorer 
+> * Plockas från: mispickel
