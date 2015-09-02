@@ -19,3 +19,10 @@
 > * Second Energy Level: 8
 > * Third Energy Level: 18 
 > * Fourth Energy Level: 5
+
+> ###Facts
+> * Date of Discovery: Known to the ancients 
+> * Discoverer: Unknown 
+> * Name Origin: From the Greek word arsenikos and the Latin word arsenicum 
+> * Uses: Poison, conducts electricity, semiconductors 
+> * Obtained From: mispickel
