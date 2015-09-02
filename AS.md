@@ -12,6 +12,8 @@
 > * Crystal Structure: Rhombohedral 
 > * Density @ 293 K: 5.72 g/cm3 
 > * Color: Gray
+
+> ###Atomic Structure
 > * Number of Energy Levels: 4
 > * First Energy Level: 2 
 > * Second Energy Level: 8
